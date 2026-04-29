@@ -6,7 +6,7 @@ export default function Home() {
 
       <h1 className="text-4xl font-bold"> 
 
-        AXIOM – Performance Intelligence for ISSF Shooting 
+        AXIOM – Precision Intelligence - Shooting Performance Analytics
 
       </h1> 
 
